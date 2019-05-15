@@ -1,5 +1,5 @@
 # Ft_printf
-Representation of original printf function.
+Representation of original printf function with handling undefined behaviour.
 Only stdarg.h and own libft libraries were used to implement all feautures.
 
 ## Features implemented
