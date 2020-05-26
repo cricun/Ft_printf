@@ -32,6 +32,7 @@ Only stdarg.h and own libft libraries were used to implement all feautures.
 * Bonus management
   - `$`     - take custom argument as value
   - `*`     - take custom argument as precision or width
+  - `{BLUE}` - paints output if COLOR flag in header set to 1. Supported colors: BLUE, YELLOW, RED, GREEN, GREY
   
   ## Instructions
   - Run `make` to compile or `make re` to recompile printf library.
